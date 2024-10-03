@@ -6,7 +6,7 @@ Aquí se realiza las practicas em Django que es un Framework Marco de trabajo UI
 - 4 Abrir terminal vs code 
 - 5 Verificar que este instalado python --> Python --version
 - 6 Crear retorno virtual --> py -3 -m venv .venv
-- 7 Activar entorno virtual --> .venv\scripts\activate
+- 7 Activar entorno virtual --> .venv\scripts\activate.bat
 - 8 Seleccionar interprete de pyhton --> presione F1
 - 9 Actualizar pip --> python -m pip install --upgrade pip
 - 10 Instalar Framewoek Django --> python -m pip install django
